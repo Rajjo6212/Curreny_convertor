@@ -1,0 +1,13 @@
+.logo{
+	
+	color:#F7552A;
+	text-align:center;
+	font-size:50px;
+}
+
+#result{
+	
+	color:green;
+	text-align:center;
+	font-size:50px;
+}	
